@@ -4,11 +4,11 @@ cette destination depend du choix de l'expediteur
 
 
 Techno attendus dans ce projet:
-Certificats JKS
-Kafka
-Java 17
-client OpenAPi
-gestion des exceptions
-spring security
-JWT
+Certificats JKS,
+Kafka,
+Java 17,
+client OpenAPi,
+gestion des exceptions,
+spring security,
+JWT,
 multiprofile
